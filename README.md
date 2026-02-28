@@ -11,9 +11,11 @@ Leading Digital Transformation & Automation | Senior Project & Product Manager
 
 ## Executive Profile
 
-I design and lead enterprise transformation programs at the intersection of AI, cloud and regulated financial environments.
+I drive enterprise-wide transformation programs aligning business strategy, technology modernization and secure digital ecosystems in regulated financial environments.
 
-My focus is not only building technology, but architecting scalable digital ecosystems that connect business strategy, risk management and engineering execution.
+My focus goes beyond building technology — I architect scalable digital ecosystems that connect business strategy, risk management and engineering execution.
+
+I am deeply driven by innovation and continuous change, with a strong interest in advancing AI-driven initiatives within high-performance, international environments where technology creates measurable impact.
 
 Currently pursuing a Master's in Artificial Intelligence.
 
@@ -21,11 +23,11 @@ Currently pursuing a Master's in Artificial Intelligence.
 
 ## Strategic Leadership Domains
 
-- Cloud Transformation (Oracle OCI)
 - Digital Banking & Payment Ecosystems
 - AI-Driven Automation (OCR, KYC, Intelligent Onboarding)
 - Identity & Security Architecture (SSO, Secure Integrations)
 - Enterprise Platform Modernization (ERP, BPM, CMS)
+- Cloud Transformation (Oracle OCI)
 - Cross-Functional Transformation Programs
 
 ---
@@ -40,25 +42,26 @@ Currently pursuing a Master's in Artificial Intelligence.
 
 ---
 
-## Architecture & Technology
+## AI Innovation & Strategic Exploration
 
-Cloud: Oracle OCI  
-Backend: Java / Spring Boot  
-Data: PostgreSQL  
-AI: NLP, Document Intelligence, ML Foundations  
-Architecture: Microservices, API-first Design  
+- Applied research in Machine Learning and intelligent automation.
+- Development of AI prototypes for document validation and onboarding optimization.
+- Exploration of AI-driven transformation opportunities in regulated industries. 
 
 ---
 
-## Professional Vision
+## Professional Philosophy
 
-Technology should not operate in isolation.  
-I build systems that enable sustainable business transformation.
+Technology is a strategic enabler, not an isolated function.
+
+I lead transformation programs where product strategy, architecture and execution converge to deliver measurable business outcomes. My decisions are grounded in clear trade-offs and KPI-driven prioritization, ensuring that every initiative creates durable value.
+
+I build high-performance cultures centered on trust, ownership and accountability — where operational speed and engineering quality define the standard.
 
 ---
 
 ## Connect
 
-LinkedIn: TU_LINK  
-Email: TU_EMAIL
+LinkedIn: www.linkedin.com/in/mauricio-r-14201a190
+Email: jmrodrigez.a@gmail.com
 
